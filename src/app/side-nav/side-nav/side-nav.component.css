@@ -1,0 +1,68 @@
+.navbar-color {
+    background-color: #f5ed5f !important;
+    color: black !important;
+}
+
+.nav-bg {
+    background-color: #E7E7E7 !important;
+}
+
+.rounded-menu {
+    display: block;
+    padding: 10px 20px;
+    margin: 10px auto; /* Center the button horizontally */
+    border-radius: 15px; /* Adjust the border-radius as needed for your preferred roundness */
+    border: 1px solid #333333; /* Set the border color to yellow */
+    background-color: transparent; /* Set your desired background color */
+    color: white; /* Set your desired text color */
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    max-width: 200px; /* Set the maximum width for the button */
+    width: 100%; /* Make the button take the full width of its container */
+    font-size: 12px;
+}
+
+
+.rounded-menu:hover {
+    background-color: #f5ed5f; /* Set the background color for hover state */
+    color: #333333 !important;
+}
+
+#layoutSidenav_nav {
+    display: flex;
+    justify-content: center;
+}
+
+.sb-sidenav {
+
+    width: 100%; /* Adjust the width as needed */
+}
+
+.nav {
+	margin-top: 30px;
+}
+
+.logo-container {
+	margin-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logo {
+    max-width: 80%;
+    height: auto;
+    border-radius: 10%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.sb-sidenav-footer {
+	background-color: #E7E7E7;
+	color: #333333 !important;
+}
+
+.divider {
+	border-top: 1px solid #333333;
+}
+
+
